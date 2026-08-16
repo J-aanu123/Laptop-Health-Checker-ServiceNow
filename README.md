@@ -53,7 +53,7 @@ The project includes visualizations for:
 
 ## Screenshots
 
-Project screenshots are available in the [`screenshots`](./screenshots) folder.
+Project screenshots are available in the above files that  I had uploaded one by one.
 
 ## Project Status
 
